@@ -1,0 +1,16 @@
+iWays\Task\Models\Country.class
+iWays\Task\Models\User.class
+iWays\Task\UserAccountControler.class
+iWays\Task\DL\AvatarDL.class
+iWays\Task\DL\UserDL.class
+iWays\Task\DL\LinkDL.class
+iWays\Task\Models\BillingAddress.class
+iWays\Task\DL\BillingAddressDL.class
+iWays\Task\UserCollectionControler.class
+iWays\Task\DL\CompanyDL.class
+iWays\Task\Models\Link.class
+iWays\Task\Models\Avatar.class
+iWays\Task\Models\UserAccount.class
+iWays\Task\DL\CountryDL.class
+iWays\Task\Models\Company.class
+iWays\Task\DL\UserAccountDL.class
