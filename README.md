@@ -17,7 +17,7 @@ Each of those can be downloaded from these links:
 
 #### PostgreSQL tips
 
-> After installing the PostgreSQL onto your server, you can easily create database from avaliable [script](https://github.com/ljdivald/simple-API/blob/master/CreateDB.sql).
+> After installing the PostgreSQL onto your server, you can easily create database from avaliable [script](https://github.com/ljdivald/simple-REST-API/blob/master/CreateDB.sql).
 
 Once you've installed both Maven and PostgreSQL and with created database you are ready to go! 
 
