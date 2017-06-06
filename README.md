@@ -1,10 +1,10 @@
-# README for simpe CRUDE REST API 
+# README for simple CRUD REST API 
 
 This API uses calls and classes for *User collection* and *User account* implemented in [Fleetch API documentation](http://docs.fleetchapi.apiary.io/).
 
 ### Instalation and set up
 
-For proper use of this API you should have Maven and PostgreSQL database instaled on your server.
+For proper use of this API you should have Maven and PostgreSQL database installed on your server.
 Each of those can be downloaded from these links:
 
 * [Maven download](http://maven.apache.org/download.cgi)
@@ -25,6 +25,6 @@ Now all you need to do is compile and run your API.
 
 ### Compiling and running the API
 
-position your self in downloaded folder of the API and run these commands:
+position yourself in downloaded folder of the API and run these commands:
 ``` mvn package && java -jar ./target/Task-0.0.1.jar ```
 If everything went right your API should be up and running but if you were to come to any problems try using ``` mvn compile ``` before running previous line.
